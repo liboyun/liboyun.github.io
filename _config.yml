@@ -57,13 +57,6 @@ menu:
   - title:             Research
     url:               /research/
 
-# Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
-#   - title:             Impress
-#     url:               /impress/
-#   - title:             Cookies Policy
-#     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2019. All rights reserved.
@@ -128,11 +121,11 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-121214450-1
+#google_analytics:      UA-121214450-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                 photocyte-github-io
+#disqus:                 photocyte-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -204,7 +197,7 @@ hydejack:
     sunset:            18
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    icon:              false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
