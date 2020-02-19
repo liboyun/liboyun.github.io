@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
+title: home
 ---
-## Academic Activities
+## Hi
 
 * Journal Reviewer
   * IEEE Access

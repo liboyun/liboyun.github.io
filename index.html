@@ -12,20 +12,29 @@ cover: false
 
 <h2>News</h2>
 
-<table class="table table-bordered table-striped table-condensed" style="width: 100%;">
-  <tr>
-        <td style="width: 25%">Aug, 2019</td>
-    <td style="width: 75%">I have been invited to be the reviewer of The Pacific-Rim Symposium on Image and Video Technology (PSIVT).</td>
-  </tr>
+<!--<table class="table table-bordered table-striped table-condensed" style="width: 100%;">-->
+<!--  <tr>-->
+<!--        <td style="width: 25%">Aug, 2019</td>-->
+<!--    <td style="width: 75%">I have been invited to be the reviewer of The Pacific-Rim Symposium on Image and Video Technology (PSIVT).</td>-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--        <td style="width: 25%">Jul, 2019</td>-->
+<!--    <td style="width: 75%">I have been invited to be the reviewer of IET Image Processing.</td>-->
+<!--  </tr>-->
+<!---->
+<!--	<tr>-->
+<!--	    <td style="width: 25%">Jun 24, 2019</td>-->
+<!--	<td style="width: 75%">I receive my bachelor's degree in Sichuan University, Chengdu, China.</td>-->
+<!--  </tr>  -->
+<!--</table>-->
 
-  <tr>
-        <td style="width: 25%">Jul, 2019</td>
-    <td style="width: 75%">I have been invited to be the reviewer of IET Image Processing.</td>
-  </tr>
-
-	<tr>
-	    <td style="width: 25%">Jun 24, 2019</td>
-	<td style="width: 75%">I receive my bachelor's degree in Sichuan University, Chengdu, China.</td>
-  </tr>  
+<table  class="table table-bordered table-striped table-condensed" style="width: 100%;">
+  {% for post in site.posts %}
+      <tr>
+<!--          <td style="width: 25%">{{post.date| date:"%Y, %m"}}</td>-->
+<td style="width: 25%">{{post.tags[0]}},  {{post.date| date:"%Y"}}</td>
+            <td style="width: 75%">{{post.title}}</td>
+      </tr>
+  {% endfor %}
 </table>
 
