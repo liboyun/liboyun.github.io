@@ -5,9 +5,14 @@ title: Research
 ## Academic Activities
 
 * Journal Reviewer
+  
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
+
   * IET Image Processing
-* IEEE Access
+  
+  * IEEE Access
+  
+    
 
 * Conference Reviewer
   * IEEE International Conference on Multimedia and Expo (ICME) 
