@@ -8,6 +8,7 @@ title: Research
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
   * IET Image Processing
 * IEEE Access
+
 * Conference Reviewer
   * IEEE International Conference on Multimedia and Expo (ICME) 
   * International Conference on Tools with Artificial Intelligence (ICTAI) 
