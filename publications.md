@@ -7,5 +7,7 @@ menu: true
 order: 1
 ---
 
-Gou, Y., **Li, B**., Liu, Z., Yang, S., & Peng, X. (2020). CLEARER: Multi-Scale Neural Architecture Search for Image Restoration (pp. 1–11). Presented at the Neural Information Processing Systems, Vancouver, Canada.[PDF] [CODES] [[BibTex](BibTex/CLEAR.bib)]
+* Y. Gou, **B. Li**, Z. Liu, S. Yang, and X. Peng, “CLEARER: Multi-Scale Neural Architecture Search for Image Restoration,” presented at the Neural Information Processing Systems, Vancouver, Canada, 2020, pp. 1–11.[PDF] [CODES] [[BibTex](BibTex/CLEAR.bib)]
+
+* **B. Li**, Y. Gou, J. Z. Liu, H. Zhu, J. T. Zhou, and X. Peng, “Zero-Shot Image Dehazing,” IEEE Transactions on Image Processing, vol. 29, pp. 8457–8466, Aug. 2020.[[PDF]()] [CODES] [[BibTex](BibTex/ZID.bib)]
 
