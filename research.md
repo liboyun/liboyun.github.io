@@ -25,3 +25,7 @@ title: Research
   
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
 
+## Work Experience
+
+* 2020.12 - now Research Intern at Baidu CV.
+
