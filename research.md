@@ -27,5 +27,7 @@ title: Research
 
 ## Work Experience
 
-* 2020.12 - now Research Intern at Baidu CV.
+* 2020.12 - now:
+
+  ​	 Research Intern at Baidu CV.
 
