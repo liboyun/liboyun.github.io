@@ -2,50 +2,58 @@
 layout: homepage
 ---
 
-## About Me
+## Boyun Li
 
-I am a Ph.D. student at ...
+Hi! Boyun Li (李伯运) is now a 2nd year master student at College of Computer Science, Sichuan Univerisity, China. Currently, he is a student of Professor [Peng](https://pengxi.me/).
+
+His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the image restoration, especially image dehazing with unsupervised methods.
+
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Image Restoration, Image Generation
+- **Machine Learning:** NAS, Unsupervised Learning, Representation Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Mar. 2021]** one paper was accepted by CVPR 2021.
+- **[Nov. 2020]** one paper was accepted by IJCV.
+- **[Sep. 2020]** one paper was accepted by NeurIPS 2020.
+- **[Aug. 2020]** one paper was accepted by TIP.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- ## 2021
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  - Yijie Lin, Yuanbiao Gou, Zitao Liu, **<u>Boyun Li</u>**, Jiancheng Lv, and Xi Peng, “COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition*, Online, Jun. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-CVPR-Completer)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/03/2021-completer.txt)] 
+  - **<u>Boyun Li</u>**#, Yuanbiao Gou#, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng, “You only look yourself: Unsupervised and untrained single image dehazing neural network,” International Journal of Computer Vision, vol. 129, pp. 1754-1767, May. 2021.<br>[[PDF](/papers/yoly.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-IJCV-YOLY)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/02/2021-IJCV.txt)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+- ## 2020
 
-## Services
+  - Yuanbiao Gou, **<u>Boyun Li</u>**, Zitao Liu, Songfan Yang, Xi Peng, “CLEARER: Multi-Scale Neural Architecture Search for Image Restoration,” presented at the *Neural Information Processing Systems*, Vancouver, Canada, Dec. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/12/2020NIPS-CLEARER.pdf)] [[Codes](https://github.com/XLearning-SCU/2020-NeurIPS-CLEARER)] [[BibTex](BibTex/CLEAR.bib)]
+  - **<u>Boyun Li</u>**, Yuanbiao Gou, Jerry Zitao Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, “Zero-Shot Image Dehazing,” IEEE Transactions on Image Processing, vol. 29, pp. 8457–8466, Aug. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/10/zero-shot-dehazing.pdf)] [[Codes](https://github.com/limit-scu/2020-TIP-ZID)] [[BibTex](BibTex/ZID.bib)]
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+
+
+## Activities
+
+* Journal Reviewer
+  * IEEE Transactions on Systems, Man and Cybernetics: Systems
+  * IET Image Processing
+  * The Visual Computer
+  * IEEE Access
+
+* Conference Reviewer / TPC Member
+  * IEEE International Conference on Multimedia and Expo (ICME) 2021
+  * Asian Conference on Machine Learning (ACML) 2021
+  * Computer Graphics International (CGI) 2021
+  * CAAI International Conference on Artificial Intelligence (CICAI) 2021
+  * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
+  * Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2020
+  * The Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2020
+* Services
+  * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
+
+* Work Experience 
+  * **[2020.12 - Now]** : Research Intern at Baidu CV.
