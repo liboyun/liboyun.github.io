@@ -17,6 +17,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 ## News
 
+- **[Jun. 2021]** I have been invited to be the reviewer of International Conference on Image and Graphics (ICIG) 2021.
 - **[Mar. 2021]** one paper was accepted by CVPR 2021.
 - **[Nov. 2020]** one paper was accepted by IJCV.
 - **[Sep. 2020]** one paper was accepted by NeurIPS 2020.
@@ -52,6 +53,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
   * Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2020
   * The Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2020
+  * International Conference on Image and Graphics (ICIG) 2021
 * Services
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
 
