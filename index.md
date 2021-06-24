@@ -17,7 +17,6 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 ## News
 
-- **[Jun. 2021]** I have been invited to be the reviewer of International Conference on Image and Graphics (ICIG) 2021.
 - **[Mar. 2021]** one paper was accepted by CVPR 2021.
 - **[Nov. 2020]** one paper was accepted by IJCV.
 - **[Sep. 2020]** one paper was accepted by NeurIPS 2020.
@@ -40,11 +39,12 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 ## Activities
 
 * Journal Reviewer
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
   * IET Image Processing
   * The Visual Computer
   * IEEE Access
-
+  
 * Conference Reviewer / TPC Member
   * IEEE International Conference on Multimedia and Expo (ICME) 2021
   * Asian Conference on Machine Learning (ACML) 2021
@@ -58,4 +58,4 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
 
 * Work Experience 
-  * **[2020.12 - Now]** : Research Intern at Baidu CV.
+  * [2020.12 - 2021.3] : Research Intern at Baidu CV.
