@@ -4,7 +4,7 @@ layout: homepage
 
 ## Boyun Li
 
-Hi! Boyun Li (李伯运) is now a 2nd year master student at College of Computer Science, Sichuan Univerisity, China. Currently, he is a student of Professor [Peng](https://pengxi.me/).
+Hi! Boyun Li (李伯运) is now a 1st year PhD student at College of Computer Science, Sichuan University, China. Currently, he is a student of Professor [Peng](https://pengxi.me/).
 
 His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the image restoration, especially image dehazing with unsupervised methods.
 
@@ -12,7 +12,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 ## Research Interests
 
-- **Computer Vision:** Image Restoration, Image Generation
+- **Computer Vision:** Image Restoration, Image Processing
 - **Machine Learning:** NAS, Unsupervised Learning, Representation Learning
 
 ## News
@@ -26,7 +26,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 - ## 2021
 
-  - Yijie Lin, Yuanbiao Gou, Zitao Liu, **<u>Boyun Li</u>**, Jiancheng Lv, and Xi Peng, “COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition*, Online, Jun. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-CVPR-Completer)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/03/2021-completer.txt)] 
+  - Yijie Lin, Yuanbiao Gou, Zitao Liu, **<u>Boyun Li</u>**, Jiancheng Lv, and Xi Peng, “COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition*, Online, Jun. 2021.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-CVPR-Completer)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/03/2021-completer.txt)] 
   - **<u>Boyun Li</u>**#, Yuanbiao Gou#, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng, “You only look yourself: Unsupervised and untrained single image dehazing neural network,” International Journal of Computer Vision, vol. 129, pp. 1754-1767, May. 2021.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/05/2021-IJCV-yoly.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-IJCV-YOLY)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/02/2021-IJCV.txt)]
 
 - ## 2020
@@ -43,10 +43,11 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
   * IET Image Processing
   * The Visual Computer
+  * Machine Learning
   * IEEE Access
   
 * Conference Reviewer / TPC Member
-  * IEEE International Conference on Multimedia and Expo (ICME) 2021
+  * IEEE International Conference on Multimedia and Expo (ICME) 2020-2022
   * Asian Conference on Machine Learning (ACML) 2021
   * Computer Graphics International (CGI) 2021
   * CAAI International Conference on Artificial Intelligence (CICAI) 2021
