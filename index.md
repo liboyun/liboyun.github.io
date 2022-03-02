@@ -16,13 +16,17 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 - **Machine Learning:** NAS, Unsupervised Learning, Representation Learning
 
 ## News
-
+- **[Mar. 2022]** one paper was accepted by CVPR 2022. Many thanks to co-authors! 
 - **[Mar. 2021]** one paper was accepted by CVPR 2021.
 - **[Nov. 2020]** one paper was accepted by IJCV.
 - **[Sep. 2020]** one paper was accepted by NeurIPS 2020.
 - **[Aug. 2020]** one paper was accepted by TIP.
 
 ## Publications
+
+- ## 2021
+
+  - Boyun Li, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition*, New Orleans, LA, Jun. 2022.<br>[PDF] [Codes] [BibTex] 
 
 - ## 2021
 
