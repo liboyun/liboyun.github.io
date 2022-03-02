@@ -24,7 +24,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 ## Publications
 
-- ## 2021
+- ## 2022
 
   - Boyun Li, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition*, New Orleans, LA, Jun. 2022.<br>[PDF] [Codes] [BibTex] 
 
