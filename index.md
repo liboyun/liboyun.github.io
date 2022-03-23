@@ -6,14 +6,14 @@ layout: homepage
 
 Hi! Boyun Li (李伯运) is now a 1st year PhD student at College of Computer Science, Sichuan University, China. Currently, he is a student of Professor [Peng](https://pengxi.me/).
 
-His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the image restoration, especially image dehazing with unsupervised methods.
+His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the general image restoration, noisy correspondence problem and contrastive learning.
 
 
 
 ## Research Interests
 
 - **Computer Vision:** Image Restoration, Image Processing
-- **Machine Learning:** NAS, Unsupervised Learning, Representation Learning
+- **Machine Learning:** Unsupervised Learning, Representation Learning
 
 ## News
 - **[Mar. 2022]** one paper was accepted by CVPR 2022. Many thanks to co-authors! 
