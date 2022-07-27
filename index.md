@@ -26,7 +26,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 - ## 2022
 
-  - **<u>Boyun Li</u>**, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), New Orleans, LA, Jun. 2022.<br>[[PDF](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)] [[Codes](https://github.com/XLearning-SCU/2022-CVPR-AirNet)] [BibTex] 
+  - **<u>Boyun Li</u>**, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), New Orleans, LA, Jun. 2022.<br>[[PDF](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)] [[Codes](https://github.com/XLearning-SCU/2022-CVPR-AirNet)] [[BibTex](http://pengxi.me/wp-content/uploads/2022/05/All-In-One-Image-Restoration-for-Unknown-Corruption.txt)]
 
 - ## 2021
 
@@ -44,6 +44,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 * Journal Reviewer
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
   * IET Image Processing
   * The Visual Computer
@@ -52,9 +53,9 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   
 * Conference Reviewer / TPC Member
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2022
-  * Asian Conference on Machine Learning (ACML) 2021
+  * Asian Conference on Machine Learning (ACML) 2021-2022
   * Computer Graphics International (CGI) 2021
-  * CAAI International Conference on Artificial Intelligence (CICAI) 2021
+  * CAAI International Conference on Artificial Intelligence (CICAI) 2021-2022
   * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
   * Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2020
   * The Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2020
