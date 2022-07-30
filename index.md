@@ -52,6 +52,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Access
   
 * Conference Reviewer / TPC Member
+  * AAAI Conference on Artificial Intelligence (AAAI) 2023
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2022
   * Asian Conference on Machine Learning (ACML) 2021-2022
   * Computer Graphics International (CGI) 2021
