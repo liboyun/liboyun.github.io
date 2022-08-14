@@ -4,7 +4,7 @@ layout: homepage
 
 ## Boyun Li
 
-Hi! Boyun Li (李伯运) is now a 1st year PhD student at College of Computer Science, Sichuan University, China. Currently, he is a student of Professor [Peng](https://pengxi.me/).
+Hi! Boyun Li (李伯运) is now a 1st year PhD student at College of Computer Science, Sichuan University, China. He is now under the supervision of [Prof. Xi Peng](https://pengxi.me/).
 
 His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the general image restoration, noisy correspondence problem and contrastive learning.
 
@@ -43,6 +43,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 ## Activities
 
 * Journal Reviewer
+  * IEEE Transactions on Image Processing (TIP)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
