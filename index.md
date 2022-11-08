@@ -50,9 +50,11 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IET Image Processing
   * The Visual Computer
   * Machine Learning
+  * Frontiers of Optoelectronics
   * IEEE Access
   
 * Conference Reviewer / TPC Member
+  * International Conference on Learning Representations (ICLR) 2023
   * AAAI Conference on Artificial Intelligence (AAAI) 2023
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2022
   * Asian Conference on Machine Learning (ACML) 2021-2022
@@ -67,3 +69,4 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 * Work Experience 
   * [2020.12 - 2021.3] : Research Intern at Baidu CV.
+
