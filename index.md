@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! Boyun Li (李伯运) is now a 2nd year PhD candidate at College of Computer Science, Sichuan University, China. He is now under the supervision of [Prof. Xi Peng](https://pengxi.me/).
 
-His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the blind image restoration, noisy correspondence problem and contrastive learning.
+His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the blind image restoration and representation learning.
 
 
 
@@ -73,5 +73,5 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
 
 * Work Experience 
-  * [2020.12 - 2021.3] : Research Intern at Baidu CV.
+  * [2020.12 - 2021.3] : Research Intern at Baidu CV, mentored by Teng Xi and Gang Zhang.
 
