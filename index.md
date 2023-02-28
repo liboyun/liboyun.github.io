@@ -16,6 +16,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 - **Machine Learning:** Unsupervised Learning, Representation Learning
 
 ## News
+- **[Feb. 2023]** one paper was accepted by CVPR 2023. Thanks to Haiyu, Yuanbiao! 
 - **[Mar. 2022]** one paper was accepted by CVPR 2022. Many thanks to co-authors! 
 - **[Mar. 2021]** one paper was accepted by CVPR 2021.
 - **[Nov. 2020]** one paper was accepted by IJCV.
