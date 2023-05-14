@@ -25,6 +25,10 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 ## Publications
 
+- ## 2023
+
+  - Haiyu Zhao, Yuanbiao Gou, **<u>Boyun Li</u>**, Dezhong Peng, Jiancheng Lv, Xi Peng, "Comprehensive and Delicate: An Efficient Transformer for Image Restoration", presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), Vancouver, Canada, Jun. 2023.
+  
 - ## 2022
 
   - Wenxin Wang#, **<u>Boyun Li</u>#**, Yuanbiao Gou, Peng Hu, and Xi Peng, “Relationship Quantification of Image Degradations,” arXiv preprint arXiv:2212.04148, 2022.<br>[[Arxiv](https://arxiv.org/abs/2212.04148)] [Codes] [BibTex]
@@ -59,13 +63,14 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023
   * International Conference on Computer Vision (ICCV) 2023
   * International Conference on Machine Learning (ICML) 2023
+  * Advanced in Neural Information Processing Systems (NeurIPS) 2023
   * International Conference on Learning Representations (ICLR) 2023
   * AAAI Conference on Artificial Intelligence (AAAI) 2023
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2023
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
   * Asian Conference on Machine Learning (ACML) 2021-2022
   * Computer Graphics International (CGI) 2021
-  * CAAI International Conference on Artificial Intelligence (CICAI) 2021-2022
+  * CAAI International Conference on Artificial Intelligence (CICAI) 2021-2023
   * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
   * Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2020
   * The Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2020
@@ -75,5 +80,6 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
 
 * Work Experience 
+  * [2023.5 - present] : Research Intern at OPPO Research Institute, mentored by [Hui Zeng](https://huizeng.github.io/) and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
   * [2020.12 - 2021.3] : Research Intern at Baidu CV, mentored by Teng Xi and Gang Zhang.
 
