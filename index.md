@@ -49,6 +49,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 ## Activities
 
 * Journal Reviewer
+  * International Journal of Computer Vision (IJCV)
   * IEEE Transactions on Image Processing (TIP)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transactions on Multimedia (TMM)
@@ -75,11 +76,9 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2020
   * The Pacific-Rim Symposium on Image and Video Technology (PSIVT) 2020
   * International Conference on Image and Graphics (ICIG) 2021
-  
 * Services
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
-
-* Work Experience 
+* Research Experience 
   * [2023.5 - present] : Research Intern at OPPO Research Institute, mentored by [Hui Zeng](https://huizeng.github.io/) and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
   * [2020.12 - 2021.3] : Research Intern at Baidu CV, mentored by Teng Xi and Gang Zhang.
 
