@@ -79,6 +79,6 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 * Services
   * Volunteer service for [ACM TURC 2019](http://acmturc.com/2019/cn/index.html), Chengdu.
 * Research Experience 
-  * [2023.5 - present] : Research Intern at OPPO Research Institute, mentored by [Hui Zeng](https://huizeng.github.io/) and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
+  * [2023.5 - present] : Research Intern at OPPO Research Institute, mentored by [Quanlong Zheng](https://quanlzheng.github.io/), [Hui Zeng](https://huizeng.github.io/) and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
   * [2020.12 - 2021.3] : Research Intern at Baidu CV, mentored by Teng Xi and Gang Zhang.
 
