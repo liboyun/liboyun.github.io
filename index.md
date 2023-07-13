@@ -66,7 +66,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * International Conference on Machine Learning (ICML) 2023
   * Advanced in Neural Information Processing Systems (NeurIPS) 2023
   * International Conference on Learning Representations (ICLR) 2023
-  * AAAI Conference on Artificial Intelligence (AAAI) 2023
+  * AAAI Conference on Artificial Intelligence (AAAI) 2023-2024
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2023
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
   * Asian Conference on Machine Learning (ACML) 2021-2022
