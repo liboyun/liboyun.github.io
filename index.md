@@ -54,6 +54,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
+  * IEEE Transactions on Intelligent Vehicles
   * IET Image Processing
   * The Visual Computer
   * Machine Learning
@@ -67,9 +68,10 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2024
   * International Conference on Learning Representations (ICLR) 2023-2024
   * AAAI Conference on Artificial Intelligence (AAAI) 2023-2024
-  * IEEE International Conference on Multimedia and Expo (ICME) 2020-2023
+  * IEEE International Conference on Multimedia and Expo (ICME) 2020-2024
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023-2024
   * Asian Conference on Machine Learning (ACML) 2021-2022
+  * Asian Conference on Computer Vision (ACCV) 2024
   * Computer Graphics International (CGI) 2021
   * CAAI International Conference on Artificial Intelligence (CICAI) 2021-2023
   * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
