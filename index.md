@@ -58,20 +58,24 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IET Image Processing
   * The Visual Computer
   * Machine Learning
+  * Machine Vision and Applications
   * Frontiers of Optoelectronics
   * IEEE Access
   
 * Conference Reviewer / TPC Member
   * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024
   * International Conference on Computer Vision (ICCV) 2023
-  * International Conference on Machine Learning (ICML) 2023
+  * International Conference on Machine Learning (ICML) 2023-2024
   * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2024
   * International Conference on Learning Representations (ICLR) 2023-2024
   * AAAI Conference on Artificial Intelligence (AAAI) 2023-2024
+  * ACM Multimedia (ACM MM) 2024
+  * SIGGRAPH Asia 2024
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2024
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023-2024
   * Asian Conference on Machine Learning (ACML) 2021-2022
   * Asian Conference on Computer Vision (ACCV) 2024
+  * International Conference on Pattern Recognition (ICPR) 2024
   * Computer Graphics International (CGI) 2021
   * CAAI International Conference on Artificial Intelligence (CICAI) 2021-2023
   * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
