@@ -49,6 +49,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 ## Activities
 
 * Journal Reviewer
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
   * International Journal of Computer Vision (IJCV)
   * IEEE Transactions on Image Processing (TIP)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -59,9 +60,9 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * The Visual Computer
   * Machine Learning
   * Machine Vision and Applications
+  * Signal, Image and Video Processing
   * Frontiers of Optoelectronics
   * IEEE Access
-  
 * Conference Reviewer / TPC Member
   * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024
   * International Conference on Computer Vision (ICCV) 2023
@@ -76,6 +77,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Asian Conference on Machine Learning (ACML) 2021-2022
   * Asian Conference on Computer Vision (ACCV) 2024
   * International Conference on Pattern Recognition (ICPR) 2024
+  * International Conference on MultiMedia Modeling (MMM) 2025
   * Computer Graphics International (CGI) 2021
   * CAAI International Conference on Artificial Intelligence (CICAI) 2021-2023
   * International Conference on Tools with Artificial Intelligence (ICTAI) 2020
