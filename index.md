@@ -4,7 +4,7 @@ layout: homepage
 
 ## Boyun Li
 
-Hi! Boyun Li (李伯运) is now a 3rd year PhD candidate at College of Computer Science, Sichuan University, China. He is now under the supervision of [Prof. Xi Peng](https://pengxi.me/).
+Hi! Boyun Li (李伯运) is now a final year PhD candidate at College of Computer Science, Sichuan University, China. He is now under the supervision of [Prof. Xi Peng](https://pengxi.me/).
 
 His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the blind image restoration and representation learning.
 
