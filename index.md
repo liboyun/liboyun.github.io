@@ -72,6 +72,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * AAAI Conference on Artificial Intelligence (AAAI) 2023-2024
   * ACM Multimedia (ACM MM) 2024
   * SIGGRAPH Asia 2024
+  * Artificial Intelligence and Statistics (AISTATS) 2025
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2024
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023-2024
   * Asian Conference on Machine Learning (ACML) 2021-2022
