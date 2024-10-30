@@ -43,6 +43,8 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   - **<u>Boyun Li</u>**#, Yuanbiao Gou#, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng, “You only look yourself: Unsupervised and untrained single image dehazing neural network,” International Journal of Computer Vision (IJCV), vol. 129, pp. 1754-1767, May. 2021.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/05/2021-IJCV-yoly.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-IJCV-YOLY)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/02/2021-IJCV.txt)]
 - **<u>Boyun Li</u>**, Yuanbiao Gou, Jerry Zitao Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, “Zero-Shot Image Dehazing,” IEEE Transactions on Image Processing (TIP), vol. 29, pp. 8457–8466, Aug. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/10/zero-shot-dehazing.pdf)] [[Codes](https://github.com/limit-scu/2020-TIP-ZID)] [[BibTex](http://pengxi.me/wp-content/uploads/2020/10/2020-Zero-Shot-Image-Dehazing.txt)]
 
+
+
 ## Activities
 
 * Journal Reviewer
