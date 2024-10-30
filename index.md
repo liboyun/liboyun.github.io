@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! Boyun Li (李伯运) is now a final year PhD candidate at College of Computer Science, Sichuan University, China. He is now under the supervision of [Prof. Xi Peng](https://pengxi.me/).
 
-His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the blind image restoration and representation learning.
+His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the all-in-one image restoration and representation learning.
 
 
 
@@ -16,6 +16,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 - **Machine Learning:** Unsupervised Learning, Representation Learning
 
 ## News
+- **[May. 2024]** one paper was accepted by ICML 2024. Thanks to Yuanbiao, Haiyu! 
 - **[Feb. 2023]** one paper was accepted by CVPR 2023. Thanks to Haiyu, Yuanbiao! 
 - **[Mar. 2022]** one paper was accepted by CVPR 2022. Many thanks to co-authors! 
 - **[Mar. 2021]** one paper was accepted by CVPR 2021.
@@ -23,25 +24,24 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 - **[Sep. 2020]** one paper was accepted by NeurIPS 2020.
 - **[Aug. 2020]** one paper was accepted by TIP.
 
-## Publications
+## Selected Publications
 
-- ## 2023
+- ## All-in-One Image Restoration
 
-  - Haiyu Zhao, Yuanbiao Gou, **<u>Boyun Li</u>**, Dezhong Peng, Jiancheng Lv, Xi Peng, "Comprehensive and Delicate: An Efficient Transformer for Image Restoration", presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), Vancouver, Canada, Jun. 2023.
+  - Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng, “Test-Time Degradation Adaptation for Open-Set Image Restoration,” presented at the *International Conference on Machine Learning* (ICML), Vienna, Austria, Jul. 2024.<br>[[PDF](https://openreview.net/forum?id=XLlQb24X2o)] [[Codes](https://github.com/XLearning-SCU/2024-ICML-TAO)] [BibTex]
+  - **<u>Boyun Li</u>#**, Wenxin Wang#, Yuanbiao Gou, Peng Hu, and Xi Peng, “Relationship Quantification of Image Degradations,” arXiv preprint arXiv:2212.04148, 2022.<br>[[Arxiv](https://arxiv.org/abs/2212.04148)] [Codes] [BibTex]
+  - **<u>Boyun Li</u>**, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), New Orleans, LA, Jun. 2022.<br>[[PDF](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)] [[Codes](https://github.com/XLearning-SCU/2022-CVPR-AirNet)] [[BibTex](http://pengxi.me/wp-content/uploads/2022/05/All-In-One-Image-Restoration-for-Unknown-Corruption.txt)].
   
-- ## 2022
+- ## Network Structure for Image Restoration
 
-  - Wenxin Wang#, **<u>Boyun Li</u>#**, Yuanbiao Gou, Peng Hu, and Xi Peng, “Relationship Quantification of Image Degradations,” arXiv preprint arXiv:2212.04148, 2022.<br>[[Arxiv](https://arxiv.org/abs/2212.04148)] [Codes] [BibTex]
-  - **<u>Boyun Li</u>**, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), New Orleans, LA, Jun. 2022.<br>[[PDF](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)] [[Codes](https://github.com/XLearning-SCU/2022-CVPR-AirNet)] [[BibTex](http://pengxi.me/wp-content/uploads/2022/05/All-In-One-Image-Restoration-for-Unknown-Corruption.txt)]
+  - Haiyu Zhao, Yuanbiao Gou, **<u>Boyun Li</u>**, Dezhong Peng, Jiancheng Lv, Xi Peng, "Comprehensive and Delicate: An Efficient Transformer for Image Restoration", presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), Vancouver, Canada, Jun. 2023.<br>[[PDF](https://pengxi.me/wp-content/uploads/2023/04/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.pdf)] [[Codes](https://github.com/XLearning-SCU/2023-CVPR-CODE)] [[BibTex](https://pengxi.me/wp-content/uploads/2023/07/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.txt)]
+  - Yuanbiao Gou, **<u>Boyun Li</u>**, Zitao Liu, Songfan Yang, Xi Peng, “CLEARER: Multi-Scale Neural Architecture Search for Image Restoration,” presented at the *Neural Information Processing Systems* (NeurIPS), Vancouver, Canada, Dec. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/12/2020NIPS-CLEARER.pdf)] [[Codes](https://github.com/XLearning-SCU/2020-NeurIPS-CLEARER)] [[BibTex](http://pengxi.me/wp-content/uploads/2020/12/2020-CLEARER-NIPS.txt)]
 
-- ## 2021
+- ## Unsupervised Learning / Restoration
 
   - Yijie Lin, Yuanbiao Gou, Zitao Liu, **<u>Boyun Li</u>**, Jiancheng Lv, and Xi Peng, “COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), Online, Jun. 2021.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-CVPR-Completer)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/03/2021-completer.txt)] 
   - **<u>Boyun Li</u>**#, Yuanbiao Gou#, Shuhang Gu, Jerry Zitao Liu, Joey Tianyi Zhou, Xi Peng, “You only look yourself: Unsupervised and untrained single image dehazing neural network,” International Journal of Computer Vision (IJCV), vol. 129, pp. 1754-1767, May. 2021.<br>[[PDF](http://pengxi.me/wp-content/uploads/2021/05/2021-IJCV-yoly.pdf)] [[Codes](https://github.com/XLearning-SCU/2021-IJCV-YOLY)] [[BibTex](http://pengxi.me/wp-content/uploads/2021/02/2021-IJCV.txt)]
 
-- ## 2020
-
-  - Yuanbiao Gou, **<u>Boyun Li</u>**, Zitao Liu, Songfan Yang, Xi Peng, “CLEARER: Multi-Scale Neural Architecture Search for Image Restoration,” presented at the *Neural Information Processing Systems* (NeurIPS), Vancouver, Canada, Dec. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/12/2020NIPS-CLEARER.pdf)] [[Codes](https://github.com/XLearning-SCU/2020-NeurIPS-CLEARER)] [[BibTex](http://pengxi.me/wp-content/uploads/2020/12/2020-CLEARER-NIPS.txt)]
   - **<u>Boyun Li</u>**, Yuanbiao Gou, Jerry Zitao Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, “Zero-Shot Image Dehazing,” IEEE Transactions on Image Processing (TIP), vol. 29, pp. 8457–8466, Aug. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/10/zero-shot-dehazing.pdf)] [[Codes](https://github.com/limit-scu/2020-TIP-ZID)] [[BibTex](http://pengxi.me/wp-content/uploads/2020/10/2020-Zero-Shot-Image-Dehazing.txt)]
 
 
@@ -68,8 +68,8 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * International Conference on Computer Vision (ICCV) 2023
   * International Conference on Machine Learning (ICML) 2023-2024
   * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2024
-  * International Conference on Learning Representations (ICLR) 2023-2024
-  * AAAI Conference on Artificial Intelligence (AAAI) 2023-2024
+  * International Conference on Learning Representations (ICLR) 2023-2025
+  * AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
   * ACM Multimedia (ACM MM) 2024
   * SIGGRAPH Asia 2024
   * Artificial Intelligence and Statistics (AISTATS) 2025
