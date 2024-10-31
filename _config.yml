@@ -8,7 +8,7 @@ google_scholar:
 github_link: 
 linkedin: 
 avatar: ./assets/img/avatar.jpg
-google_analytics: UA-111540567-4
+google_analytics: 
 favicon: 
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
