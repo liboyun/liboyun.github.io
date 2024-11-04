@@ -61,7 +61,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * Frontiers of Optoelectronics
   * IEEE Access
 * Conference Reviewer / TPC Member
-  * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2024
+  * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2025
   * International Conference on Computer Vision (ICCV) 2023
   * International Conference on Machine Learning (ICML) 2023-2024
   * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2024
