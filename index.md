@@ -52,7 +52,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
-  * IEEE Transactions on Intelligent Vehicles
+  * IEEE Transactions on Intelligent Vehicles (TIV)
   * IET Image Processing
   * The Visual Computer
   * Machine Learning
