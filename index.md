@@ -16,6 +16,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 - **Machine Learning:** Unsupervised Learning, Representation Learning
 
 ## News
+- **[Feb. 2025]** one paper was accepted by CVPR 2025. Thanks to all co-authors! 
 - **[May. 2024]** one paper was accepted by ICML 2024. Thanks to Yuanbiao, Haiyu! 
 - **[Feb. 2023]** one paper was accepted by CVPR 2023. Thanks to Haiyu, Yuanbiao! 
 - **[Mar. 2022]** one paper was accepted by CVPR 2022. Many thanks to co-authors! 
@@ -34,7 +35,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   
 - ## Network Structure for Image Restoration
 
-  - **<u>Boyun Li</u>**, Haiyu Zhao, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng, "MaIR: A Locality-and Continuity-Preserving Mamba for Image Restoration", arXiv: 2412.20066. Dec, 2024.<br>[[PDF](https://arxiv.org/pdf/2412.20066)] [Codes] [BibTex]
+  - **<u>Boyun Li</u>**, Haiyu Zhao, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng, "MaIR: A Locality-and Continuity-Preserving Mamba for Image Restoration", presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), Nashville, TN, Jun. 2025.<br>[[PDF](https://arxiv.org/pdf/2412.20066)] [Codes] [BibTex]
   - Haiyu Zhao, Yuanbiao Gou, **<u>Boyun Li</u>**, Dezhong Peng, Jiancheng Lv, Xi Peng, "Comprehensive and Delicate: An Efficient Transformer for Image Restoration", presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), Vancouver, Canada, Jun. 2023.<br>[[PDF](https://pengxi.me/wp-content/uploads/2023/04/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.pdf)] [[Codes](https://github.com/XLearning-SCU/2023-CVPR-CODE)] [[BibTex](https://pengxi.me/wp-content/uploads/2023/07/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.txt)]
   - Yuanbiao Gou, **<u>Boyun Li</u>**, Zitao Liu, Songfan Yang, Xi Peng, “CLEARER: Multi-Scale Neural Architecture Search for Image Restoration,” presented at the *Neural Information Processing Systems* (NeurIPS), Vancouver, Canada, Dec. 2020.<br>[[PDF](http://pengxi.me/wp-content/uploads/2020/12/2020NIPS-CLEARER.pdf)] [[Codes](https://github.com/XLearning-SCU/2020-NeurIPS-CLEARER)] [[BibTex](http://pengxi.me/wp-content/uploads/2020/12/2020-CLEARER-NIPS.txt)]
 
@@ -54,6 +55,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Systems, Man and Cybernetics: Systems
   * IEEE Transactions on Intelligent Vehicles (TIV)
+  *  Transactions on Machine Learning Research
   * IET Image Processing
   * The Visual Computer
   * Machine Learning
@@ -63,15 +65,15 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * IEEE Access
 * Conference Reviewer / TPC Member
   * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023-2025
-  * International Conference on Computer Vision (ICCV) 2023
+  * International Conference on Computer Vision (ICCV) 2023-20225
   * International Conference on Machine Learning (ICML) 2023-2024
-  * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2024
+  * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2025
   * International Conference on Learning Representations (ICLR) 2023-2025
   * AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
-  * ACM Multimedia (ACM MM) 2024
+  * ACM Multimedia (ACM MM) 2024-2025
   * SIGGRAPH Asia 2024
   * Artificial Intelligence and Statistics (AISTATS) 2025
-  * IEEE International Conference on Multimedia and Expo (ICME) 2020-2024
+  * IEEE International Conference on Multimedia and Expo (ICME) 2020-2025
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023-2024
   * Asian Conference on Machine Learning (ACML) 2021-2022
   * Asian Conference on Computer Vision (ACCV) 2024
