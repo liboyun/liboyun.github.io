@@ -16,6 +16,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 - **Machine Learning:** Unsupervised Learning, Representation Learning
 
 ## News
+- **[Apr. 2025]** one paper was accepted by TPAMI. Thanks to all Wenxin, Yuanbiao and all other co-authors! 
 - **[Feb. 2025]** one paper was accepted by CVPR 2025. Thanks to all co-authors! 
 - **[May. 2024]** one paper was accepted by ICML 2024. Thanks to Yuanbiao, Haiyu! 
 - **[Feb. 2023]** one paper was accepted by CVPR 2023. Thanks to Haiyu, Yuanbiao! 
@@ -29,8 +30,8 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 
 - ## All-in-One Image Restoration
 
-  - Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng, “Test-Time Degradation Adaptation for Open-Set Image Restoration,” presented at the *International Conference on Machine Learning* (ICML), Vienna, Austria, Jul. 2024.<br>[[PDF](https://openreview.net/forum?id=XLlQb24X2o)] [[Codes](https://github.com/XLearning-SCU/2024-ICML-TAO)] [[BibTex](https://pengxi.me/wp-content/uploads/2025/02/Test-Time-Degradation-Adaptation-for-Open-Set-Image-Restoration.txt)]
-  - **<u>Boyun Li</u>#**, Wenxin Wang#, Yuanbiao Gou, Peng Hu, and Xi Peng, “Relationship Quantification of Image Degradations,” arXiv preprint arXiv:2212.04148, 2022.<br>[[Arxiv](https://arxiv.org/abs/2212.04148)] [Codes] [BibTex]
+  - **<u>Boyun Li</u>#**, Yuanbiao Gou#, Wenxin Wang, Peng Hu, and Xi Peng, “Relationship Quantification of Image Degradations,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.<br>[[Arxiv](https://arxiv.org/abs/2212.04148)] [Codes] [BibTex]
+  - Yuanbiao Gou, Haiyu Zhao, **<u>Boyun Li</u>**, Xinyan Xiao, Xi Peng, “Test-Time Degradation Adaptation for Open-Set Image Restoration,” presented at the *International Conference on Machine Learning* (ICML), Vienna, Austria, Jul. 2024.<br>[[PDF](https://openreview.net/forum?id=XLlQb24X2o)] [[Codes](https://github.com/XLearning-SCU/2024-ICML-TAO)] [[BibTex](https://pengxi.me/wp-content/uploads/2025/02/Test-Time-Degradation-Adaptation-for-Open-Set-Image-Restoration.txt)]
   - **<u>Boyun Li</u>**, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, and Xi Peng, “All-In-One Image Restoration for Unknown Corruption,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition* (CVPR), New Orleans, LA, Jun. 2022.<br>[[PDF](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)] [[Codes](https://github.com/XLearning-SCU/2022-CVPR-AirNet)] [[BibTex](http://pengxi.me/wp-content/uploads/2022/05/All-In-One-Image-Restoration-for-Unknown-Corruption.txt)].
   
 - ## Network Structure for Image Restoration
@@ -48,7 +49,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
 ## Activities
 
 * Journal Reviewer
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * International Journal of Computer Vision (IJCV)
   * IEEE Transactions on Image Processing (TIP)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -73,6 +74,7 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
   * ACM Multimedia (ACM MM) 2024-2025
   * SIGGRAPH Asia 2024
+  * European Conference on Artificial Intelligence (ECAI) 2025
   * Artificial Intelligence and Statistics (AISTATS) 2025
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2025
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023-2024
