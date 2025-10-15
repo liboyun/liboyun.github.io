@@ -4,11 +4,7 @@ layout: homepage
 
 ## Boyun Li
 
-Hi! Boyun Li (李伯运) is now a final year PhD candidate at College of Computer Science, Sichuan University, China. He is now under the supervision of [Prof. Xi Peng](https://pengxi.me/).
-
-His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the all-in-one image restoration and representation learning.
-
-
+Hi! Boyun Li (李伯运) is now a postdoctral fellow at University of Macau, supervised by [Porf. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). He obtained his Bachelor and PhD degree from College of Computer Science, Sichuan University in 2019 and 2025 under the supervision of [Prof. Xi Peng](https://pengxi.me/). His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the all-in-one image restoration and representation learning.
 
 ## Research Interests
 
@@ -71,13 +67,14 @@ His major interests include Computer Vision and Deep Learning. Recently, he main
   * International Conference on Machine Learning (ICML) 2023-2024
   * Advanced in Neural Information Processing Systems (NeurIPS) 2023-2025
   * International Conference on Learning Representations (ICLR) 2023-2025
-  * AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
+  * AAAI Conference on Artificial Intelligence (AAAI) 2023-2026
   * ACM Multimedia (ACM MM) 2024-2025
   * SIGGRAPH Asia 2024
   * European Conference on Artificial Intelligence (ECAI) 2025
-  * Artificial Intelligence and Statistics (AISTATS) 2025
+  * Artificial Intelligence and Statistics (AISTATS) 2025-2026
   * IEEE International Conference on Multimedia and Expo (ICME) 2020-2025
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023-2024
+  * Winter Conference on Applications of Computer Vision (WACV) 2026
   * Asian Conference on Machine Learning (ACML) 2021-2022
   * Asian Conference on Computer Vision (ACCV) 2024
   * International Conference on Pattern Recognition (ICPR) 2024
