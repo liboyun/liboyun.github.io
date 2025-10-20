@@ -4,7 +4,9 @@ layout: homepage
 
 ## Boyun Li
 
-Hi! Boyun Li (李伯运) is now a postdoctral fellow at University of Macau, supervised by [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). He obtained his Bachelor and PhD degree from College of Computer Science, Sichuan University in 2019 and 2025 under the supervision of [Prof. Xi Peng](https://pengxi.me/). His major interests include Computer Vision and Deep Learning. Recently, he mainly focuses on the all-in-one image restoration and representation learning.
+Boyun Li (李伯运) is currently a Postdoctoral Fellow at University of Macau, working under the supervision of [Prof. Jiantao Zhou](https://www.fst.um.edu.mo/personal/jtzhou/). He received his B.E. and Ph.D. degree from College of Computer Science, Sichuan University in 2019 and 2025, respectively, supervised by [Prof. Xi Peng](https://pengxi.me/). His research focuses on Computer Vision and Deep Learning, particularly on the all-in-one image restoration and representation learning.
+
+I am always open to research collaborations. Please feel free to contact me via email if you are interested in working together.
 
 ## Research Interests
 
